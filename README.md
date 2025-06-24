@@ -47,5 +47,3 @@ Olá! Sou um desenvolvedor front-end com uma base sólida em back-end, buscando 
 
 
 ---
-[!](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
